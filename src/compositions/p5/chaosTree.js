@@ -1,4 +1,7 @@
-// inspired by: https://openprocessing.org/sketch/732455
+// Visual Designer: Pedro Trama
+// Referência: https://openprocessing.org/sketch/732455
+// Fenômeno associado: Biomas do Brasil
+// Proposta poética: O Brasil é um vasto país com rica flora. Essa composição demonstra um pouco disso tudo, apresentando plantas da região ao usuário.
 
 const { weather } = window.App;
 let lat = weather?.lat;
