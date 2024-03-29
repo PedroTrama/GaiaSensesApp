@@ -1,4 +1,7 @@
-// inspired by: https://openprocessing.org/sketch/1929051
+// Visual Designer: Pedro Trama
+// Referência: https://openprocessing.org/sketch/1929051
+// Fenômeno associado: Temperatura
+// Proposta poética: As pétalas de flores crescem em um padrão hipnótico e mudam de cor conforme a temperatura na região do usuário se altera
 
 let flowers = [];
 let w;
