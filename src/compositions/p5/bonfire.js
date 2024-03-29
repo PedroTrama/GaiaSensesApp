@@ -1,4 +1,8 @@
-// creator: Pedro Trama
+
+// Visual Designer: Pedro Trama
+// Referência: Autoral
+// Fenômeno associado: Queimadas
+// Proposta poética: As partíulas com cores quentes causam uma sensação de urgência conforme a quantidade de focos de incêndio ao redor do usuário aumenta.
 
 const { fire } = window.App;
 let wildFireCount = fire?.count || 0;
