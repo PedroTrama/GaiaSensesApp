@@ -1,4 +1,7 @@
-// inspired by: https://openprocessing.org/sketch/1645787
+// Visual Designer: Pedro Trama
+// Referência:  https://openprocessing.org/sketch/1645787
+// Fenômeno associado: Umidade relativa do ar
+// Proposta poética: Como se a tela do usuário estivesse em uma sala úmida, a água escorre pela tela como se condensasse
 
 rain=[]
 colors=["#75b9be","#696d7d","#d72638","#f49d37","#140f2d"]
