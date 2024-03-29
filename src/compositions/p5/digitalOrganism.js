@@ -1,4 +1,7 @@
-// inspired by: https://openprocessing.org/sketch/1864228
+// Visual Designer: Pedro Trama
+// Referência: https://openprocessing.org/sketch/1864228
+// Fenômeno associado: Chuva
+// Proposta poética: Conforme gotas de água caem a tela branca, o labirinto de linhas pretas se ajusta para tentar preencher a tela, em um ciclo sem fim
 
 const DEAD = 0;
 const ALIVE = 1;
