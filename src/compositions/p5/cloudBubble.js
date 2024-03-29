@@ -1,4 +1,7 @@
-// inspired by: https://openprocessing.org/sketch/1786759
+// Visual Designer: Pedro Trama
+// Referência: https://openprocessing.org/sketch/1786759
+// Fenômeno associado: Nuvens
+// Proposta poética: As partículas aumentam em quantidade e escurecem em cor conforme o céu se enche de nuvens.
 
 const { weather } = window.App;
 let clouds = weather?.clouds;
