@@ -1,4 +1,7 @@
-// inspired by: https://openprocessing.org/sketch/1936782
+// Visual Designer: Pedro Trama
+// Referência:  https://openprocessing.org/sketch/1936782
+// Fenômeno associado: Vento
+// Proposta poética: Como se o vento soprasse ao redor do usuário, a velocidade, direção e até as cores do olho da tempestade se alteram 
 
 let eyeRadius = 0.2;
 let distribution = 1.0;
