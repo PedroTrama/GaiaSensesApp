@@ -1,4 +1,7 @@
-// inspired by: https://openprocessing.org/sketch/1203202
+// Visual Designer: Pedro Trama
+// Referência: https://openprocessing.org/sketch/1203202
+// Fenômeno associado: Raios
+// Proposta poética: As linhas azuis se espalham pela tela como um raio atingindo a tela do dispositivo
 
 const { lightning } = window.App;
 const lightningCount = lightning?.count || 0;
